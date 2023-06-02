@@ -1,0 +1,11 @@
+0 Arnab De
+1 Pabitra Banerjee
+2 Elon Musk
+3 Sundar Pichai
+4 Bill Gates
+5 Sam Altman
+6 Murk Zuckerberg
+7 Tony Stark
+
+
+# Copyright 2023 Pabitra Banerjee
